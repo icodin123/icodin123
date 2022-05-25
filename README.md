@@ -15,6 +15,8 @@
 
 [Personal blog developed using Node, Express, React.](https://github.com/icodin123)
 
+[Online marketplace application developed using Node.js, HTML, CSS.](https://github.com/icodin123)
+
 [Restful web API design developed using Python3, Flask.](https://github.com/icodin123)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
