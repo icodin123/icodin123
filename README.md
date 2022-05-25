@@ -12,9 +12,9 @@
 
 [Portfolio website developed using React, Redux, JavaScript, HTML, CSS, MaterialUI](https://github.com/icodin123)
 
-[Personal blog](https://github.com/icodin123)
+[Personal blog developed using Node, Express, React](https://github.com/icodin123)
 
-[Restful web API design](https://github.com/icodin123)
+[Restful web API design developed using Python3, Flask](https://github.com/icodin123)
 
 [Multi-process dictionary sorting application for Linux developed using C](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
 
