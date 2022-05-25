@@ -9,3 +9,7 @@
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap ](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
 [Multi-process dictionary sorting application for Linux developed using C](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
+
+[Word-guessing game for Linux developed using C and sockets](https://github.com/icodin123/ServerClientGameUsingSockets)
+
+[Browser clicker game developed using JavaScript, HTML, CSS](https://github.com/icodin123/JS_Clicker_Browser_Game)
