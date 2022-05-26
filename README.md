@@ -15,7 +15,7 @@
 
 [Personal blog developed using Node, Express, React.](https://github.com/icodin123)
 
-[Online marketplace application developed using Node.js, HTML, CSS.](https://github.com/icodin123)
+[Online marketplace application developed using Node.js, HTML, CSS, React, Redux.](https://github.com/icodin123)
 
 [Python strategy game developed using Python3. Used Minimax algorithm for AI.](https://github.com/icodin123/Minimax_Python_Strategy_Game)
 
