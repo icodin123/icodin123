@@ -17,8 +17,6 @@
 
 [Online marketplace application developed using Node.js, HTML, CSS, React, Redux.](https://github.com/icodin123)
 
-[Python strategy game developed using Python3. Used Minimax algorithm for AI.](https://github.com/icodin123/Minimax_Python_Strategy_Game)
-
 [Restful web API design developed using Python3, Flask.](https://github.com/icodin123)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
@@ -26,3 +24,5 @@
 [Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/ServerClientGameUsingSockets)
 
 [Browser clicker game developed using JavaScript, HTML, CSS.](https://github.com/icodin123/JS_Clicker_Browser_Game)
+
+[Python strategy game developed using Python3. Used Minimax algorithm for AI.](https://github.com/icodin123/Minimax_Python_Strategy_Game)
