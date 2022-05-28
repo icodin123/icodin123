@@ -16,7 +16,7 @@
 
 [Personal blog developed using Node, Express, React.](https://github.com/icodin123)
 
-[Online marketplace concept developed using Node.js, HTML, CSS, React, Redux.](https://github.com/icodin123)
+[Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB.](https://github.com/icodin123)
 
 [Restful web API design developed using Python3, Flask.](https://github.com/icodin123)
 
