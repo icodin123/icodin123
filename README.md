@@ -18,6 +18,8 @@
 
 [Personal blog developed using Node, Express, React.](https://github.com/icodin123)
 
+[University course finder developed using Node, MongoDB, Express, Angular.](https://github.com/icodin123)
+
 [Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C.](https://github.com/icodin123)
 
 [Restful web API design developed using Python3, Flask.](https://github.com/icodin123)
