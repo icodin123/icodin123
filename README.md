@@ -4,9 +4,9 @@
 
 [Medium.](https://github.com/icodin123)
 
-[Portfolio. Deployed on AWS.](https://jeffncoding.com)
+[Portfolio website. Deployed on AWS.](https://jeffncoding.com)
 
-[Personal blog. Deployed on AWS.](https://github.com/icodin123)
+[Personal blog website. Deployed on AWS.](https://github.com/icodin123)
 
 ### Projects
 
