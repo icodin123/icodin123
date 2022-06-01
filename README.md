@@ -4,7 +4,7 @@
 
 [Medium.](https://github.com/icodin123)
 
-[Portfolio.](https://jeffncoding.com)
+[Portfolio. Deployed on AWS.](https://jeffncoding.com)
 
 [Personal blog. Deployed on AWS.](https://github.com/icodin123)
 
