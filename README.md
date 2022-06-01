@@ -23,6 +23,8 @@ Portfolio. [Access website.](https://github.com/icodin123)
 
 [Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB.](https://github.com/icodin123)
 
+[Social media platform concept.](https://github.com/icodin123)
+
 [Personal blog developed using Node, Express, React.](https://github.com/icodin123)
 
 [University course finder developed using Node, MongoDB, Express, Angular.](https://github.com/icodin123)
