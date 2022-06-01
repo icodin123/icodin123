@@ -6,7 +6,7 @@
 
 [Portfolio.](https://jeffncoding.com)
 
-[Personal blog.](https://github.com/icodin123)
+[Personal blog. Deployed on AWS.](https://github.com/icodin123)
 
 ### Projects
 
