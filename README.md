@@ -16,7 +16,7 @@
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS.](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
-[Access website. https://jeffncoding.com](https://www.youtube.com/watch?v=9jBXNPFPh6A)
+[Access website.](https://jeffncoding.com)
 
 [Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB.](https://github.com/icodin123)
 
