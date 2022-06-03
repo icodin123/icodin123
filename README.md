@@ -30,6 +30,8 @@
 
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
+[University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
+
 [Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C (back-end and front-end).](https://github.com/icodin123)
 
 [Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
