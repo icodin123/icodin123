@@ -14,6 +14,8 @@
 
 [Watch demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
+[Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ (back-end and front-end).](https://github.com/icodin123)
+
 [DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/Java_Hibernate_Activity_Planning_App)
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
@@ -31,8 +33,6 @@
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
 [University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
-
-[Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C (back-end and front-end).](https://github.com/icodin123)
 
 [Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
