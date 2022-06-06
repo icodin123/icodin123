@@ -22,13 +22,13 @@
 
 [Access website.](https://jeffncoding.com)
 
+[Personal blog developed using Node, Express, React (back-end and front-end).](https://github.com/icodin123)
+
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
 [Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
-
-[Personal blog developed using Node, Express, React (back-end and front-end).](https://github.com/icodin123)
 
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
