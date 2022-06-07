@@ -30,6 +30,8 @@
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
+[Online banking application developed using Spring and React.](https://github.com/icodin123)
+
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
 [University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
