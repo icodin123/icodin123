@@ -24,6 +24,8 @@
 
 [Personal blog developed using Node, Express, React (back-end and front-end).](https://github.com/icodin123)
 
+[Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
+
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
 [Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
