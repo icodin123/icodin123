@@ -20,7 +20,7 @@
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
-[Access website.](https://jeffncoding.com)
+[View website.](https://jeffncoding.com)
 
 [Personal blog developed using Node, Express, React (back-end and front-end).](https://github.com/icodin123)
 
