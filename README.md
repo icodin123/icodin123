@@ -32,7 +32,7 @@
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
-[Messenger app.](https://github.com/icodin123)
+[Messenger app developed using Node, Express, Angular.](https://github.com/icodin123)
 
 [Online banking application developed using Spring and React.](https://github.com/icodin123)
 
