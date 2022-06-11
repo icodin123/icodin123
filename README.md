@@ -22,7 +22,7 @@
 
 [View website.](https://jeffncoding.com)
 
-[Personal blog developed using Node, Express, React (back-end and front-end).](https://github.com/icodin123)
+[Personal blog developed using Node, Express, React, Mongo, Mongoose (back-end and front-end).](https://github.com/icodin123)
 
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
