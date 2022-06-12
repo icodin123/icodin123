@@ -10,6 +10,12 @@
 
 ### Projects
 
+[Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
+
+[View website.](https://jeffncoding.com)
+
+[Online marketplace developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
+
 [DocForm: Medical Forms Management Software developed using React, Node, Postgres, Python (back-end and front-end).](https://github.com/icodin123/React_Node_Medical_Forms_App)
 
 [Watch demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
@@ -17,10 +23,6 @@
 [Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ (back-end and front-end).](https://github.com/icodin123)
 
 [DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/Java_Hibernate_Activity_Planning_App)
-
-[Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
-
-[View website.](https://jeffncoding.com)
 
 [Personal blog developed using Node, Express, React, Mongo, Mongoose (back-end and front-end).](https://github.com/icodin123)
 
@@ -31,8 +33,6 @@
 [C++ chatbot application.](https://github.com/icodin123)
 
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
-
-[Online marketplace concept developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
