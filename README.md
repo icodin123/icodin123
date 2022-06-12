@@ -24,6 +24,8 @@
 
 [Personal blog developed using Node, Express, React, Mongo, Mongoose (back-end and front-end).](https://github.com/icodin123)
 
+[View website.](https://jeffncoding.com)
+
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
 [C++ chatbot application.](https://github.com/icodin123)
