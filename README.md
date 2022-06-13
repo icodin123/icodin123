@@ -28,6 +28,8 @@
 
 [View website.](https://jeffncoding.com)
 
+[Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
+
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
 [C++ chatbot application.](https://github.com/icodin123)
@@ -43,8 +45,6 @@
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
 [University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
-
-[Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
 
