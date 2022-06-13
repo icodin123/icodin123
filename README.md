@@ -28,13 +28,13 @@
 
 [View website.](https://jeffncoding.com)
 
+[Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
+
 [Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
 [C++ chatbot application.](https://github.com/icodin123)
-
-[Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
