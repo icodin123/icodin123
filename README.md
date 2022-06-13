@@ -36,6 +36,8 @@
 
 [C++ chatbot application.](https://github.com/icodin123)
 
+[C++ multithreaded image drawing application.](https://github.com/icodin123)
+
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
 [Messenger app developed using Node, Express, Angular.](https://github.com/icodin123)
