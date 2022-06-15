@@ -20,7 +20,8 @@
 
 [Watch demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
-[Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ (back-end and front-end).](https://github.com/icodin123)
+[Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ 
+(back-end and front-end).](https://github.com/icodin123)
 
 [DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/Java_Hibernate_Activity_Planning_App)
 
@@ -37,6 +38,8 @@
 [C++ chatbot application.](https://github.com/icodin123)
 
 [C++ multithreaded image drawing application.](https://github.com/icodin123)
+
+[VSCode plugin](https://github.com/icodin123)
 
 [Social media platform concept (back-end and front-end).](https://github.com/icodin123)
 
