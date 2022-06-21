@@ -12,7 +12,7 @@
 
 ### Projects
 
-[Online marketplace (like kijiji.ca) developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
+[Online marketplace back-end developed using Node.js, Mongoose, MongoDB (back-end only)](https://github.com/icodin123)
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
