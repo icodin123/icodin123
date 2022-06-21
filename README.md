@@ -2,7 +2,7 @@
 
 ### Blog
 
-[Medium.](https://github.com/icodin123)
+[Medium.](https://medium.com/@jeff_123)
 
 [Portfolio website. Deployed on AWS.](https://jeffncoding.com)
 
