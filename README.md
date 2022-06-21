@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Blog
+### Blog and websites
 
 [Medium blog.](https://medium.com/@jeff_123)
 
