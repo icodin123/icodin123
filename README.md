@@ -10,11 +10,11 @@
 
 ### Projects
 
+[Online marketplace (like kijiji.ca) developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
+
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
 [View website.](https://jeffncoding.com)
-
-[Online marketplace developed using Node.js, HTML, CSS, React, Redux, Mongoose, MongoDB (back-end and front-end).](https://github.com/icodin123)
 
 [DocForm: Medical Forms Management Software developed using React, Node, Postgres, Python (back-end and front-end).](https://github.com/icodin123/React_Node_Medical_Forms_App)
 
