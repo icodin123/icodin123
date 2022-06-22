@@ -12,7 +12,7 @@
 
 ### Projects
 
-[Online marketplace back-end and front-end. Developed using Node.js, Mongoose, MongoDB, React, Redux.](https://github.com/icodin123)
+[Online marketplace back-end and front-end. Developed using Node.js, Mongoose, MongoDB, React, Redux.](https://github.com/icodin123/ONLINE_MARKETPLACE)
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
