@@ -10,11 +10,9 @@
 
 [DocForm: Medical Forms App. Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
-[Online marketplace back-end. Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
-
 ### Projects
 
-[Online marketplace back-end developed using Node.js, Mongoose, MongoDB (back-end only)](https://github.com/icodin123)
+[Online marketplace back-end and front-end. Developed using Node.js, Mongoose, MongoDB, React, Redux.](https://github.com/icodin123)
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
