@@ -31,7 +31,7 @@
 
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
-[University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/universityEventsWebApp)
+[University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/UNIVERSITY_EVENTS_WEB_APP)
 
 [Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
