@@ -33,7 +33,7 @@
 
 [University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/UNIVERSITY_EVENTS_WEB_APP)
 
-[Restful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
+[RESTful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
