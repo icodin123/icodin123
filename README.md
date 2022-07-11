@@ -4,11 +4,11 @@
 
 [Medium blog.](https://medium.com/@jeff_123)
 
-[Portfolio website. Deployed on AWS.](https://jeffncoding.com)
+[Portfolio website (front-end only). Deployed on AWS.](https://jeffncoding.com)
 
-[DocForm: Medical Forms App. Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
+[DocForm: Medical Forms App (back-end and front-end). Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
-[Zeller: Online marketplace.](https://github.com/icodin123/ONLINE_MARKETPLACE)
+[Zeller: Online marketplace (back-end and front-end).](https://github.com/icodin123/ONLINE_MARKETPLACE)
 
 ### Projects
 
