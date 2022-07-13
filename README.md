@@ -8,7 +8,7 @@
 
 [DocForm: Medical Forms App (back-end and front-end). Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
-[Zeller: Online marketplace (back-end and front-end).](https://github.com/icodin123/ONLINE_MARKETPLACE)
+[Zeller: Online marketplace (back-end and front-end). Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
 ### Projects
 
