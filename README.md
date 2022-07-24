@@ -4,9 +4,9 @@
 
 [Medium blog.](https://medium.com/@jeff_123)
 
-[Portfolio website (front-end only). Deployed on AWS.](https://jeffncoding.com) [YouTube demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
+[Portfolio website (front-end only). Deployed on AWS.](https://jeffncoding.com)
 
-['Marketplace': Online marketplace (back-end and front-end). Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
+['Marketplace': Online marketplace (back-end and front-end). Demo available on YouTube.](https://youtu.be/bh4CZXIc-8M)
 
 [DocForm: Medical Forms App (back-end and front-end). Demo available on YouTube.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
