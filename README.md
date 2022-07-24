@@ -18,7 +18,9 @@
 
 [Collaborative text editor (back-end and front-end).](https://github.com/icodin123)
 
-[Online marketplace back-end and front-end. Developed using Node.js, Mongoose, MongoDB, React, Redux, HTML, CSS.](https://github.com/icodin123/ONLINE_MARKETPLACE)
+[Online marketplace front-end. Developed using Node.js, React, Redux, HTML, CSS.](https://github.com/icodin123/ONLINE_MARKETPLACE_CLIENT)
+
+[Online marketplace back-end. Developed using Node.js, Mongoose, MongoDB.](https://github.com/icodin123/ONLINE_MARKETPLACE_BACK_END)
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
