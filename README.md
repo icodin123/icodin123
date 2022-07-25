@@ -14,8 +14,6 @@
 
 ### Projects
 
-[Collaborative text editor (back-end and front-end).](https://github.com/icodin123)
-
 [Online marketplace front-end. Developed using Node.js, React, Redux, HTML, CSS.](https://github.com/icodin123/ONLINE_MARKETPLACE_CLIENT)
 
 [Online marketplace back-end. Developed using Node.js, Mongoose, MongoDB.](https://github.com/icodin123/ONLINE_MARKETPLACE_BACK_END)
