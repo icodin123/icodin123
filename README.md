@@ -4,7 +4,7 @@
 
 [Medium blog.](https://medium.com/@jeff_123)
 
-[Portfolio website (front-end only). Deployed on AWS.](https://jeffncoding.com)
+[Portfolio website (front-end only). Deployed on AWS. View website.](https://jeffncoding.com)
 
 ['Marketplace': Online marketplace (back-end and front-end). Demo available on YouTube.](https://youtu.be/bh4CZXIc-8M)
 
