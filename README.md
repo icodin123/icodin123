@@ -20,11 +20,14 @@
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
-[View website.](https://jeffncoding.com)
-
 [DocForm: Medical Forms Management Software developed using React, Node, Postgres, Python (back-end and front-end).](https://github.com/icodin123/React_Node_Medical_Forms_App)
 
-[Watch demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
+[Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/C_WORD_GUESSING_GAME_USING_SOCKETS)
+
+
+
+
+
 
 [Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ 
 (back-end and front-end).](https://github.com/icodin123)
@@ -33,15 +36,11 @@
 
 [Personal blog developed using Node, Express, React, Mongo, Mongoose (back-end and front-end).](https://github.com/icodin123)
 
-[View website.](https://jeffncoding.com)
-
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
 
 [University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/UNIVERSITY_EVENTS_WEB_APP)
 
 [RESTful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
-
-[Watch demo.](https://www.youtube.com/watch?v=9jBXNPFPh6A)
 
 [Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
 
@@ -62,8 +61,6 @@
 [University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
-
-[Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/ServerClientGameUsingSockets)
 
 [Browser clicker game developed using JavaScript, HTML, CSS.](https://github.com/icodin123/JS_Clicker_Browser_Game)
 
