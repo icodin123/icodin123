@@ -22,11 +22,13 @@
 
 [DocForm: Medical Forms Management Software developed using React, Node, Postgres, Python (back-end and front-end).](https://github.com/icodin123/React_Node_Medical_Forms_App)
 
+[Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/PYTHON_DJANGO_FOOD_DELIVERY_APP)
+
 [Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/C_WORD_GUESSING_GAME_USING_SOCKETS)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_MULTI_PROCESS_DICTIONARY_SORTING)
 
-
+[DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/JAVA_HIBERNATE_ACTIVITY_PLANNING_APP)
 
 
 
@@ -34,11 +36,9 @@
 [Image processing web application developed using Node.js, React, Redux, Mongoose, MongoDB, C++ 
 (back-end and front-end).](https://github.com/icodin123)
 
-[DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/Java_Hibernate_Activity_Planning_App)
-
 [Personal blog developed using Node, Express, React, Mongo, Mongoose (back-end and front-end).](https://github.com/icodin123)
 
-[Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/Python_Django_Food_Delivery_App)
+
 
 [University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/UNIVERSITY_EVENTS_WEB_APP)
 
