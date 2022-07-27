@@ -30,6 +30,10 @@
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_MULTI_PROCESS_DICTIONARY_SORTING)
 
+[RESTful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123/Python_Flask_NHL_API_Design)
+
+[Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123/JS_Clicker_Browser_Game)
+
 
 
 
@@ -42,9 +46,9 @@
 
 [University Events Web Application developed using Node.JS, Mongoose, MongoDB, HTML, CSS, JavaScript (back-end and front-end)](https://github.com/icodin123/UNIVERSITY_EVENTS_WEB_APP)
 
-[RESTful web API design developed using Python3, Flask (back-end).](https://github.com/icodin123)
 
-[Multiplayer browser tic tac toe game (back-end and front-end).](https://github.com/icodin123)
+
+
 
 [C++ chatbot application.](https://github.com/icodin123)
 
