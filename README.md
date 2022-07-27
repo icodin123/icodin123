@@ -24,6 +24,8 @@
 
 [Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/C_WORD_GUESSING_GAME_USING_SOCKETS)
 
+[Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_MULTI_PROCESS_DICTIONARY_SORTING)
+
 
 
 
@@ -59,8 +61,6 @@
 [University course finder developed using Node, MongoDB, Express, Angular (back-end and front-end).](https://github.com/icodin123)
 
 [University events organizer application developed using Node, Mongo, Express, Angular, Mongoose, JS, HTML, CSS.](https://github.com/icodin123)
-
-[Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_Multi_Process_Dictionary_Sorting)
 
 [Browser clicker game developed using JavaScript, HTML, CSS.](https://github.com/icodin123/JS_Clicker_Browser_Game)
 
