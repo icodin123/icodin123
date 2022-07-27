@@ -24,11 +24,11 @@
 
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/PYTHON_DJANGO_FOOD_DELIVERY_APP)
 
+[DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/JAVA_HIBERNATE_ACTIVITY_PLANNING_APP)
+
 [Word-guessing game for Linux developed using C and sockets.](https://github.com/icodin123/C_WORD_GUESSING_GAME_USING_SOCKETS)
 
 [Multi-process dictionary sorting application for Linux developed using C.](https://github.com/icodin123/C_MULTI_PROCESS_DICTIONARY_SORTING)
-
-[DailyPlanner: Multi-User Activity Planning developed using Java, Postgres, Maven, Hibernate (back-end).](https://github.com/icodin123/JAVA_HIBERNATE_ACTIVITY_PLANNING_APP)
 
 
 
