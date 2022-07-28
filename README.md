@@ -20,6 +20,8 @@
 
 [Portfolio website developed using Webpack, React, Redux, JavaScript, HTML, CSS, MaterialUI. Deployed on AWS. Features mobile-friendly design. (front-end)](https://github.com/icodin123/PORTFOLIO_WEBSITE)
 
+[Multithreaded image processing application written in C.](https://github.com/icodin123/C_MULTITHREADED_IMAGE_PROCESSING_APPLICATION)
+
 [DocForm: Medical Forms Management Software developed using React, Node, Postgres, Python (back-end and front-end).](https://github.com/icodin123/React_Node_Medical_Forms_App)
 
 [Food Delivery App developed using Python, Django, SQLlite, HTML, CSS, JavaScript, Jquery, Bootstrap (back-end and front-end).](https://github.com/icodin123/PYTHON_DJANGO_FOOD_DELIVERY_APP)
